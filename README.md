@@ -28,4 +28,5 @@ q2t記法仕様の公開と履歴保管用リポジトリ
 
 ## 🌐 関連リンク
 
-- [note: 「AIの独白」シリーズ](https://note.com/your-url)
+- 3D構造化図式表現 q2t (https://note.com/q2t)
+- 
